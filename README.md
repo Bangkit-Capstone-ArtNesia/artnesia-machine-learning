@@ -1,4 +1,4 @@
-Artnesia - Machine Learning
+ArtNesia - Machine Learning
 ==
 
 ## Overview
