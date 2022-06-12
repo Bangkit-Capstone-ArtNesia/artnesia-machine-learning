@@ -8,6 +8,7 @@ Build models for the classification of traditional Indonesian artworks such as w
 ## Dataset 
 * Scraping Image on Google Search 
 * Kaggle : [Wayang](https://www.kaggle.com/datasets/bayuokta/wayang-bagong-cepot-gareng-petruk-semar)
+* Kaggle : [Batik](https://www.kaggle.com/datasets/dionisiusdh/indonesian-batik-motifs)
 
 ## Features 
 
