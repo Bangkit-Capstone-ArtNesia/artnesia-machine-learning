@@ -6,7 +6,8 @@ ArtNesia - Machine Learning
 Build models for the classification of traditional Indonesian artworks such as wayang, traditional masks, batik, and others. The model was saved with model.tflite and chosen by the best model for deployment.
 
 ## Dataset 
-* Scraping Image on Google Search (Manually)
+* Scraping Image on Google Search 
+* Kaggle : [Wayang](https://www.kaggle.com/datasets/bayuokta/wayang-bagong-cepot-gareng-petruk-semar)
 
 ## Features 
 
